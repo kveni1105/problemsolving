@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kveni1105/problemsolving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kveni1105/problemsolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kveni1105/problemsolving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kveni1105/problemsolving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kveni1105/problemsolving/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kveni1105/problemsolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kveni1105/problemsolving/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kveni1105/problemsolving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
