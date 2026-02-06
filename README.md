@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kveni1105/problemsolving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kveni1105/problemsolving/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kveni1105/problemsolving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/kveni1105/problemsolving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kveni1105/problemsolving/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kveni1105/problemsolving/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
