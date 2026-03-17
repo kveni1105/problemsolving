@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kveni1105/problemsolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kveni1105/problemsolving/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kveni1105/problemsolving/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/kveni1105/problemsolving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kveni1105/problemsolving/tree/master/0344-reverse-string) |
 ## String
@@ -69,10 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kveni1105/problemsolving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kveni1105/problemsolving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kveni1105/problemsolving/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kveni1105/problemsolving/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kveni1105/problemsolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kveni1105/problemsolving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kveni1105/problemsolving/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kveni1105/problemsolving/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/kveni1105/problemsolving/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
