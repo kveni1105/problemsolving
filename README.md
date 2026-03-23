@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kveni1105/problemsolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kveni1105/problemsolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kveni1105/problemsolving/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kveni1105/problemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kveni1105/problemsolving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kveni1105/problemsolving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kveni1105/problemsolving/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kveni1105/problemsolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/kveni1105/problemsolving/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kveni1105/problemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kveni1105/problemsolving/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kveni1105/problemsolving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kveni1105/problemsolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kveni1105/problemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
