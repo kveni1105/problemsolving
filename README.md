@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kveni1105/problemsolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kveni1105/problemsolving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kveni1105/problemsolving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kveni1105/problemsolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kveni1105/problemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kveni1105/problemsolving/tree/master/0209-minimum-size-subarray-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kveni1105/problemsolving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
