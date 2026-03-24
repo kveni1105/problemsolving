@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kveni1105/problemsolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/kveni1105/problemsolving/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/kveni1105/problemsolving/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kveni1105/problemsolving/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kveni1105/problemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kveni1105/problemsolving/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kveni1105/problemsolving/tree/master/0209-minimum-size-subarray-sum) |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kveni1105/problemsolving/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kveni1105/problemsolving/tree/master/0240-search-a-2d-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kveni1105/problemsolving/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kveni1105/problemsolving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
