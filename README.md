@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kveni1105/problemsolving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kveni1105/problemsolving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kveni1105/problemsolving/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/kveni1105/problemsolving/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/kveni1105/problemsolving/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/kveni1105/problemsolving/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
