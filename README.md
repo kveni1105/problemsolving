@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kveni1105/problemsolving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kveni1105/problemsolving/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/kveni1105/problemsolving/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kveni1105/problemsolving/tree/master/0349-intersection-of-two-arrays) |
 | [0994-rotting-oranges](https://github.com/kveni1105/problemsolving/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kveni1105/problemsolving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2540-minimum-common-value](https://github.com/kveni1105/problemsolving/tree/master/2540-minimum-common-value) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kveni1105/problemsolving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kveni1105/problemsolving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kveni1105/problemsolving/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/kveni1105/problemsolving/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kveni1105/problemsolving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kveni1105/problemsolving/tree/master/0349-intersection-of-two-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kveni1105/problemsolving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2540-minimum-common-value](https://github.com/kveni1105/problemsolving/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
