@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kveni1105/problemsolving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kveni1105/problemsolving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kveni1105/problemsolving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/kveni1105/problemsolving/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/kveni1105/problemsolving/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kveni1105/problemsolving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/kveni1105/problemsolving/tree/master/2540-minimum-common-value) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kveni1105/problemsolving/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/kveni1105/problemsolving/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/kveni1105/problemsolving/tree/master/0445-add-two-numbers-ii) |
+| [0989-add-to-array-form-of-integer](https://github.com/kveni1105/problemsolving/tree/master/0989-add-to-array-form-of-integer) |
 ## String Matching
 |  |
 | ------- |
