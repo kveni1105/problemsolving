@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kveni1105/problemsolving/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/kveni1105/problemsolving/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/kveni1105/problemsolving/tree/master/0989-add-to-array-form-of-integer) |
+| [1185-day-of-the-week](https://github.com/kveni1105/problemsolving/tree/master/1185-day-of-the-week) |
 ## String Matching
 |  |
 | ------- |
