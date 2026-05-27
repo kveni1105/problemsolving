@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kveni1105/problemsolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/kveni1105/problemsolving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kveni1105/problemsolving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kveni1105/problemsolving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kveni1105/problemsolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kveni1105/problemsolving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kveni1105/problemsolving/tree/master/0125-valid-palindrome) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kveni1105/problemsolving/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/kveni1105/problemsolving/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kveni1105/problemsolving/tree/master/0022-generate-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/kveni1105/problemsolving/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
