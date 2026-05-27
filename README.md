@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/kveni1105/problemsolving/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/kveni1105/problemsolving/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kveni1105/problemsolving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/kveni1105/problemsolving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2540-minimum-common-value](https://github.com/kveni1105/problemsolving/tree/master/2540-minimum-common-value) |
 ## Trie
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/kveni1105/problemsolving/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/kveni1105/problemsolving/tree/master/0989-add-to-array-form-of-integer) |
 | [1185-day-of-the-week](https://github.com/kveni1105/problemsolving/tree/master/1185-day-of-the-week) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/kveni1105/problemsolving/tree/master/1822-sign-of-the-product-of-an-array) |
 ## String Matching
 |  |
 | ------- |
