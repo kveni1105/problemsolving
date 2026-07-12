@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/kveni1105/problemsolving/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kveni1105/problemsolving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/kveni1105/problemsolving/tree/master/0415-add-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kveni1105/problemsolving/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kveni1105/problemsolving/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kveni1105/problemsolving/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
