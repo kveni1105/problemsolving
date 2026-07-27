@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kveni1105/problemsolving/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/kveni1105/problemsolving/tree/master/0415-add-strings) |
 | [1143-longest-common-subsequence](https://github.com/kveni1105/problemsolving/tree/master/1143-longest-common-subsequence) |
+| [1507-reformat-date](https://github.com/kveni1105/problemsolving/tree/master/1507-reformat-date) |
 ## Array
 |  |
 | ------- |
