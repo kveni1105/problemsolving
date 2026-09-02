@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kveni1105/problemsolving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kveni1105/problemsolving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kveni1105/problemsolving/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/kveni1105/problemsolving/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/kveni1105/problemsolving/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kveni1105/problemsolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kveni1105/problemsolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kveni1105/problemsolving/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/kveni1105/problemsolving/tree/master/0118-pascals-triangle) |
 | [1143-longest-common-subsequence](https://github.com/kveni1105/problemsolving/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
