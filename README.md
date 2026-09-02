@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kveni1105/problemsolving/tree/master/0415-add-strings) |
 | [1143-longest-common-subsequence](https://github.com/kveni1105/problemsolving/tree/master/1143-longest-common-subsequence) |
 | [1507-reformat-date](https://github.com/kveni1105/problemsolving/tree/master/1507-reformat-date) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/kveni1105/problemsolving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2027-minimum-moves-to-convert-string](https://github.com/kveni1105/problemsolving/tree/master/2027-minimum-moves-to-convert-string) |
 ## Array
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kveni1105/problemsolving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kveni1105/problemsolving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/kveni1105/problemsolving/tree/master/0525-contiguous-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/kveni1105/problemsolving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/kveni1105/problemsolving/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
