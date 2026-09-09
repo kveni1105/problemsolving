@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/kveni1105/problemsolving/tree/master/0989-add-to-array-form-of-integer) |
 | [1185-day-of-the-week](https://github.com/kveni1105/problemsolving/tree/master/1185-day-of-the-week) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kveni1105/problemsolving/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3871-count-commas-in-range-ii](https://github.com/kveni1105/problemsolving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kveni1105/problemsolving/tree/master/3875-construct-uniform-parity-array-i) |
 ## String Matching
 |  |
